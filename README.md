@@ -1,1 +1,3 @@
-# carvision
+# carvision is a visually engaging and user-friendly web application designed to help users explore and discover cars through an intuitive interface. The website focuses on clean design, smooth navigation, and responsive layouts to ensure a consistent experience across desktops, tablets, and mobile devices. It integrates external APIs to fetch and display dynamic car-related data such as specifications and key features, keeping the content informative and up to date. CarVision emphasizes modern frontend development practices, including structured layouts, efficient data handling, and interactive UI elements. The project showcases the effective use of web technologies to present automotive information in a clear and accessible manner, making it suitable for users interested in browsing and learning about different cars.
+
+🔗 Live Demo: https://aashna-carvision.netlify.app/
